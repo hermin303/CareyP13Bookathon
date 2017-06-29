@@ -1,0 +1,21 @@
+Hi guys, 
+
+Welcome to Carey P Bookathon. Here we define "bookathon" in reference to a
+marathon we organize to build all the websites that are in the Carey P. (2013) 
+book. Because we consider this book as a good one for a beginner in Web development
+to start with. 
+
+Here we will publish as much as exercises that are in each chapter of this book. 
+The idea is to do all the exercises of the book in order to have the basic skills 
+to build a decent professional website.
+
+However, considering the "responsiveness aspect" of websites nowadays. The skills 
+taught in This book must be completed by some responsive programming skills from 
+jQuery, JS and specially Bootstrap. 
+
+Reference: 
+Carey, P. M. (2013). New Perspectives on HTML, CSS, and Dynamic HTML. Place of 
+publication not identified: Cengage Learning.
+
+Cordially, 
+Hermin R.

@@ -1,0 +1,74 @@
+/*
+New Perspectives on HTML
+Tutorial 1
+Case Problem 3
+
+dessertWeb Style Sheet
+Author: Amy Wu
+Date:   3/1/2014
+
+Filename:         dessertstyles.css
+Supporting Files: none
+
+*/
+
+
+/* Section Styles */
+
+body {
+    margin: 0px auto;
+    padding: 0px;
+    line-height: 1.5em;
+    width: 100%;
+    max-width: 1000px;
+    min-width: 250px;
+    font-family: Verdana, Geneva, sans-serif;
+    height: 1100px;
+}
+header {
+    display: block;
+    width: 100%;
+    text-align: center;
+    border-bottom: 3px solid #C38377;
+    margin: 20px 0px 10px 0px;
+}
+aside {
+    float: right;
+    border: 3px solid #C38377;
+    margin: 30px;
+    padding: 10px;
+    box-shadow: 5px 5px 10px #000;
+    -webkit-box-shadow: 5px 5px 10px #000;
+    -moz-box-shadow: 5px 5px 10px #000;
+}
+footer {
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+    font-style: normal;
+    font-variant: small-caps;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    background-color: #C38377;
+    color: white;
+}
+#machine {
+    float: right;
+}
+#machineName {
+    text-align: center;
+    font-style: italic;
+    font-size: 1.0em;
+    font-weight: bold;
+}
+#dimension {
+    font-weight: bold;
+    font-size: 1.6em;
+    margin-bottom: 15px;
+}
+body section p {
+    text-indent: 30px;
+}
+span {
+    text-decoration: underline;
+}
